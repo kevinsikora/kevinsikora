@@ -1,3 +1,5 @@
+<img src="images/popcorn-01.jpg" alt="Popcorn" width="100%">
+
 # Kevin Sikora
 
 ## Software Engineer

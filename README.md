@@ -1,5 +1,7 @@
 <img src="images/popcorn-01.jpg" alt="Popcorn" width="100%">
 
+[//]: # (<img src="images/littleneckClams-01.jpg" alt="Littleneck clams" width="100%">)
+
 # Kevin Sikora
 
 ## Software Engineer
@@ -7,5 +9,3 @@ I’m a software engineer at Sikora Collective, where I build, operate, and main
 
 ## Code Repositories
 I push most of my code to the [Sikora Collective](https://github.com/sikoracollective) GitHub account.
-
-<img src="images/littleneckClams-01.jpg" alt="Popcorn" width="100%">
